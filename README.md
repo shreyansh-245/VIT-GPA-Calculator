@@ -9,7 +9,6 @@
 
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/VIT-GPA-Calculator/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Issues](https://img.shields.io/github/issues/Kaos599/VIT-GPA-Calculator)](https://github.com/Kaos599/VIT-GPA-Calculator/issues)
 
@@ -33,7 +32,7 @@ A Python application that extracts course grade data from a PDF file, calculates
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 VIT-GPA-Calculator is a Python application that extracts course grade data from a PDF file (specifically, your VIT grade history), calculates your current CGPA, and provides powerful simulation and planning tools. It uses the [Camelot](https://camelot-py.readthedocs.io/en/master/) library to parse tables from PDFs and [Pandas](https://pandas.pydata.org/) for data manipulation.  The advanced version leverages the [Rich](https://rich.readthedocs.io/en/stable/) library for a visually appealing and interactive command-line interface.
 
@@ -144,10 +143,4 @@ This project includes two versions of the main application:
 
 -   Follow the on-screen instructions to view your current grade analysis, simulate grade improvements, plan future courses, or visualize your data. The advanced version provides a menu-driven interface.
 
-## Contributing
 
-Contributions are welcome! Please fork this repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
